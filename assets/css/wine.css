@@ -87,8 +87,9 @@ header li a:hover {
 
 #contact {
 	background: #333333;
-	padding-bottom: 50px;
-	margin-bottom: 50px;
+	color: #e4e4e4; 
+	padding: 20px 90px 30px 90px;
+	margin-bottom: 60px;
 }
 
 .blueberry-quote {
